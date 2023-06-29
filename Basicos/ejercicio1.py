@@ -1,3 +1,4 @@
+#Calculadora basica
 n1=input("Ingresa un numero: ")
 while n1 != 'salir' or n2 != 'salir':
     op=input("Ingresa una operacion: ")
