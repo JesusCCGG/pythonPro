@@ -1,3 +1,4 @@
+#Conexion de python con BD mysql
 import mysql.connector
 import sys
 
